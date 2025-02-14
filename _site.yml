@@ -1,22 +1,23 @@
 name: "Dat Q. Tran"
 navbar:
-  title: "Dat Tran"
+  title: " "
   left:
     - text: "Home"
       icon: fa-home
-      href: index.html
-    - text: "Projects"
+      href: https://dattran-hydroeco.github.io/index.html
+    - text: "Sea level rise, land subsidence, saltwater intrusion project"
       href: SWI_project.html
 
 
 
-  right:
-    - text: "Contact me"
-      icon: glyphicon-send
-      href: mailto:tran.dat@leg.state.fl.us
-    - text: "Google Scholar"
-      icon: fa-google
-      href: https://scholar.google.com/citations?hl=en&user=auA2Qj8AAAAJ&view_op=list_works&sortby=pubdate 
+  # right:
+  #   - text: "Contact me"
+  #     icon: glyphicon-send
+  #     href: mailto:tran.dat@leg.state.fl.us
+  #   - text: "Google Scholar"
+  #     icon: fa-google
+  #     href: https://scholar.google.com/citations?hl=en&user=auA2Qj8AAAAJ&view_op=list_works&sortby=pubdate
+      
 # output:
 #   html_document:
 #     theme: paper

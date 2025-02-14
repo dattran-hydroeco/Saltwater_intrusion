@@ -9,6 +9,9 @@ output:
 #
 <link rel="stylesheet" href="style.css" type="text/css">
 
+<!-- ## **Sea level rise, land subsidence and saltwater intrusion project** -->
+
+
 <img src="images/SWI.jpg" style="width:100%; border:5px solid; margin-right: 10px" align="left">
 
 <style>
@@ -17,14 +20,17 @@ text-align: justify}
 </style>
 
 
-Picture showing the a rice field affected by saltwater intrusion in the Mekong Delta, Vietnam
+Picture showing a rice field affected by saltwater intrusion in the Mekong Delta, Vietnam
 Source: https://baotainguyenmoitruong.vn/ngap-man-o-dong-bang-song-cuu-long-ptag.html 
 
 
 
+<hr style="border:1px solid black">
+
 ### **Objectives of the project**
 The project has two main objectives: 1. evaluate how and to what extent saltwater intrusion affects agricultural production in the Mekong Delta under uncertainty, and 2) to what extent the expected reduction in rice production in the Mekong Delta affects price for rice and trade internationally. 
 
+<hr style="border:1px solid black">
 ### **Publications** 
 1). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. 2025. [Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty](https://authors.elsevier.com/a/1kYnzB8cd44R0). Science of the Total Environment. 966 (2025), 1-15.
 
