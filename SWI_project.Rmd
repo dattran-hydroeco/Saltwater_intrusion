@@ -14,7 +14,8 @@ output:
 <!-- ## **Sea level rise, land subsidence and saltwater intrusion project** -->
 
 
-<img src="images/SWI.jpg" style="width:100%; border:5px solid; margin-right: 10px" align="left">
+<img src="images/SWI.jpg" style="width:48%; border:2px solid; margin-right: 10px" align="left">
+<img src="images/Dawsons Farm Salinization damage_0.jpg" style="width:48%; border:2px solid; margin-right: 10px" align="right">
 
 <style>
 body {
@@ -22,8 +23,10 @@ text-align: justify}
 </style>
 
 
-Picture showing a rice field affected by saltwater intrusion in the Mekong Delta, Vietnam
-Source: https://baotainguyenmoitruong.vn/ngap-man-o-dong-bang-song-cuu-long-ptag.html 
+Picture showing fields affected by saltwater intrusion in the Mekong Delta, Vietnam &
+North Carolina, U.S.
+Sources: https://baotainguyenmoitruong.vn/ngap-man-o-dong-bang-song-cuu-long-ptag.html
+         https://www.climatehubs.usda.gov/hubs/southeast/topic/saltwater-intrusion-and-salinization-coastal-forests-and-farms
 
 <!-- https://bookdown.org/yihui/rmarkdown/basics-examples.html -->
 <!-- https://github.com/emitanaka/icon : insert icons to Rmarkdown-->
