@@ -26,4 +26,12 @@ navbar:
 #     includes:
 #        in_header: analytics_tracking.html
       
-output_dir: "docs"
+# output_dir: "docs"
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
