@@ -1,11 +1,22 @@
 ---
 title: ''
 output:
-  html_document: default
-  pdf_document: default
-  word_document: defaut
+  # html_document: default
+  # pdf_document: default
+  # word_document: default
+  
+  # html_document:
+  #   theme: cerulean
+  #   toc_float: true
+  
+  cleanrmd::html_document_clean:
+    theme: markdown-air
+
 
 ---
+
+<!-- https://www.youtube.com/watch?v=v048ru5v0BE -->
+<!-- remotes::install_github("gadenbuie/cleanrmd") -->
 
 #
 #
@@ -23,10 +34,9 @@ text-align: justify}
 </style>
 
 
-Picture showing fields affected by saltwater intrusion in the Mekong Delta, Vietnam &
-North Carolina, U.S.
-Sources: https://baotainguyenmoitruong.vn/ngap-man-o-dong-bang-song-cuu-long-ptag.html
-         https://www.climatehubs.usda.gov/hubs/southeast/topic/saltwater-intrusion-and-salinization-coastal-forests-and-farms
+Pictures showing fields affected by saltwater intrusion 
+in the [Mekong Delta, Vietnam](https://baotainguyenmoitruong.vn/ngap-man-o-dong-bang-song-cuu-long-ptag.html) & [North Carolina, U.S.](https://www.climatehubs.usda.gov/hubs/southeast/topic/saltwater-intrusion-and-salinization-coastal-forests-and-farms)
+
 
 <!-- https://bookdown.org/yihui/rmarkdown/basics-examples.html -->
 <!-- https://github.com/emitanaka/icon : insert icons to Rmarkdown-->
